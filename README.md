@@ -1,5 +1,4 @@
-# cet_calc_app
-
+# Cet Calculator
 A new Flutter application.
 
 ## Getting Started
